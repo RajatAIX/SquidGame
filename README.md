@@ -1,3 +1,6 @@
+Live Demo:
+[https://your-frontend-url.con](https://squidgame-beryl.vercel.app/)
+
 # 🦑 Squid Game Landing Page
 
 A frontend landing page inspired by the **Squid Game** series, built using **HTML5**, **SCSS**, **CSS Flexbox**, and **CSS Positioning**.
